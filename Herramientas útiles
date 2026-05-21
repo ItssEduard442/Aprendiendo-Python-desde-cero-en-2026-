@@ -1,0 +1,3 @@
+Extensiones para VSCode
+
+Python: extensión fundamental para edición, debugueo y otras cosas. Instala automáticamente otras extensiones complementarias: Python Debugger, Python Environments y Pylance.
